@@ -12,7 +12,7 @@ const reactQuestions = [
   {
     question: "What is the virtual DOM?",
     answer:
-      "The virtual DOM is a lightweight copy of teh actual DOM in memory. React uses it to improve performance by updating only the changed parts fo the actual DOM.",
+      "The virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to improve performance by updating only the changed parts of the actual DOM.",
   },
   {
     question: "What is the significance of keys in React?",
